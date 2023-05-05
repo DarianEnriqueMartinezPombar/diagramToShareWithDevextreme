@@ -1,0 +1,2 @@
+# diagramToShareWithDevextreme
+Created with CodeSandbox
